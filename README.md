@@ -34,7 +34,7 @@ of which I found and fixed an SSTI leading to RCE.
 
 | Project | What it is |
 |---|---|
-| [Clinic-Sass](https://github.com/HosniHazem/Clinic-Sass) | Multi-tenant clinic management SaaS — records, appointments, billing (Stripe), Docker, CI/CD |
+| [MedFlow](https://github.com/HosniHazem/medflow) | Multi-tenant clinic management SaaS — records, appointments, billing (Stripe), Docker, CI/CD |
 | [Puter-CV-Analyser](https://github.com/HosniHazem/Puter-CV-Analyser) | AI résumé parsing, skill extraction and feedback generation |
 | [CICD-K8s-Project](https://github.com/HosniHazem/CICD-K8s-Project) | Kubernetes deployment pipeline |
 | [Portfolio3D](https://github.com/HosniHazem/Portfolio3D) | Interactive 3D portfolio — Three.js, WebGL |
